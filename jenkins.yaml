@@ -1,0 +1,839 @@
+credentials:
+  system:
+    domainCredentials:
+    - credentials:
+      - googleRobotPrivateKey:
+          module: |-
+            FAILED TO EXPORT
+            com.google.jenkins.plugins.credentials.oauth.GoogleRobotPrivateKeyCredentials#module: No configurator found for type class com.google.jenkins.plugins.credentials.oauth.GoogleRobotCredentialsModule
+          projectId: "hyperlocal-286805"
+          serviceAccountConfig:
+            json:
+              filename: "hyperlocal-286805-9fa0d6d0c76f.json"
+              secretJsonKey: "{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}"
+      - basicSSHUserPrivateKey:
+          description: "bitbucket"
+          id: "bitbucket"
+          privateKeySource:
+            directEntry:
+              privateKey: "{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}"
+          scope: GLOBAL
+          username: "bitbucket"
+          usernameSecret: true
+      - string:
+          description: "Sonarqube Access Token for nodejs"
+          id: "sonarqube_access_token_nodejs"
+          scope: GLOBAL
+          secret: "{AQAAABAAAAAw3h4S8jQJGX+aCfNYaaeAjHv7HR2OCZ/b8ehC4DLnEirXmhSJ84LlavvA6cM/Qnh5fOi61gParR6jewrh9CLTiw==}"
+      - string:
+          id: "f61b236b-38d8-47d2-a590-5c0d22693d8e"
+      - usernamePassword:
+          id: "db614c35-a8bb-4e4e-823c-dbf0e587bcb0"
+          password: "{AQAAABAAAAAQAOXjlnFrrRmv9R3UuyAf4d/LSZ/fVQ9E8iPJrIL4Pp4=}"
+          usernameSecret: true
+      - googleRobotPrivateKey:
+          module: |-
+            FAILED TO EXPORT
+            com.google.jenkins.plugins.credentials.oauth.GoogleRobotPrivateKeyCredentials#module: No configurator found for type class com.google.jenkins.plugins.credentials.oauth.GoogleRobotCredentialsModule
+          projectId: "hyperlocal-286805"
+          serviceAccountConfig:
+            json:
+              filename: "hyperlocal-286805-616c22ae10cc.json"
+              secretJsonKey: "{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}"
+      - usernamePassword:
+          id: "7c485196-79a4-4acd-923f-6cd210216377"
+          password: "{AQAAABAAAAAgNHY7T+I/c5X6n8uUGa9sJ3HvLcMGqd6VLzsTYW3FsLHkrDf2BQ8DUUYm0aPq3lEd}"
+          scope: GLOBAL
+          username: "admin@nextdoorhub.com"
+      - usernamePassword:
+          id: "Personal Email"
+          password: "{AQAAABAAAAAQDcDOX4VdfMfoiR/lvcs0jCfeAPxXKKd+TUO2sFsq6PE=}"
+          scope: GLOBAL
+          username: "imran.roshan.official@gmail.com"
+jenkins:
+  agentProtocols:
+  - "JNLP4-connect"
+  - "Ping"
+  authorizationStrategy:
+    globalMatrix:
+      permissions:
+      - "Job/Build:dev_user"
+      - "Job/Build:searce_team"
+      - "Job/Cancel:dev_user"
+      - "Job/Cancel:searce_team"
+      - "Job/Configure:searce_team"
+      - "Job/Read:dev_user"
+      - "Job/Read:searce_team"
+      - "Job/Workspace:dev_user"
+      - "Job/Workspace:searce_team"
+      - "Overall/Administer:admin"
+      - "Overall/Administer:jen_admin"
+      - "Overall/Read:dev_user"
+      - "Overall/Read:searce_team"
+      - "Run/Replay:dev_user"
+      - "Run/Replay:searce_team"
+      - "Run/Update:dev_user"
+      - "Run/Update:searce_team"
+      - "View/Read:dev_user"
+      - "View/Read:searce_team"
+  clouds:
+  - kubernetes:
+      containerCap: 20
+      containerCapStr: "20"
+      jenkinsTunnel: "jenkins-agent:50000"
+      jenkinsUrl: "http://jenkins:8080/"
+      name: "kubernetes"
+      namespace: "jenkins"
+      serverUrl: "https://35.244.10.42"
+      templates:
+      - containers:
+        - image: "asia.gcr.io/hyperlocal-286805/jenkins-slave-jdk11:1"
+          livenessProbe:
+            failureThreshold: 0
+            initialDelaySeconds: 0
+            periodSeconds: 0
+            successThreshold: 0
+            timeoutSeconds: 0
+          name: "jnlp"
+          ttyEnabled: true
+          workingDir: "/home/jenkins/agent"
+        id: "jenkins-jdk11-slave-ce1922adbc8142eab5c09f59dc84a9ab"
+        label: "jenkins-jdk11-slave"
+        name: "jenkins-jdk11-slave"
+        namespace: "jenkins"
+        slaveConnectTimeout: 100
+        slaveConnectTimeoutStr: "100"
+        volumes:
+        - hostPathVolume:
+            hostPath: "/var/run/docker.sock"
+            mountPath: "/var/run/docker.sock"
+        - emptyDirVolume:
+            memory: true
+            mountPath: "/var/lib/docker"
+        yamlMergeStrategy: "override"
+      - containers:
+        - image: "asia.gcr.io/hyperlocal-286805/jenkins-slave-jdk11:1"
+          livenessProbe:
+            failureThreshold: 0
+            initialDelaySeconds: 0
+            periodSeconds: 0
+            successThreshold: 0
+            timeoutSeconds: 0
+          name: "jnlp"
+          ttyEnabled: true
+          workingDir: "/home/jenkins/agent"
+        id: "jenkins-jdk11-slave-maven-cache-6d90422b816b28490be1d5c6f1df0c3f"
+        label: "jenkins-jdk11-slave-maven-cache"
+        name: "jenkins-jdk11-slave-maven-cache"
+        namespace: "jenkins"
+        slaveConnectTimeout: 100
+        slaveConnectTimeoutStr: "100"
+        volumes:
+        - hostPathVolume:
+            hostPath: "/var/run/docker.sock"
+            mountPath: "/var/run/docker.sock"
+        - emptyDirVolume:
+            memory: true
+            mountPath: "/var/lib/docker"
+        - persistentVolumeClaim:
+            claimName: "maven-cache-pvc"
+            mountPath: "/root/.m2/repository"
+            readOnly: false
+        yamlMergeStrategy: "override"
+      - containers:
+        - image: "asia.gcr.io/hyperlocal-286805/jenkins-slave-trivy:v3"
+          livenessProbe:
+            failureThreshold: 0
+            initialDelaySeconds: 0
+            periodSeconds: 0
+            successThreshold: 0
+            timeoutSeconds: 0
+          name: "jnlp"
+          ttyEnabled: true
+          workingDir: "/home/jenkins/agent"
+        id: "ec19256d-e97b-4f1a-b383-784214cf2e45"
+        label: "slave-trivy"
+        name: "jenkins-slave-trivy"
+        namespace: "jenkins"
+        slaveConnectTimeout: 100
+        slaveConnectTimeoutStr: "100"
+        volumes:
+        - hostPathVolume:
+            hostPath: "/var/run/docker.sock"
+            mountPath: "/var/run/docker.sock"
+        - emptyDirVolume:
+            memory: true
+            mountPath: "/var/lib/docker"
+        yamlMergeStrategy: "override"
+  crumbIssuer:
+    standard:
+      excludeClientIPFromCrumb: true
+  disableRememberMe: false
+  disabledAdministrativeMonitors:
+  - "hudson.plugins.sshslaves.verifiers.MissingVerificationStrategyAdministrativeMonitor"
+  - "jenkins.security.RekeySecretAdminMonitor"
+  - "hudson.model.UpdateCenter$CoreUpdateMonitor"
+  - "jenkins.branch.PropertyMigration$MonitorImpl"
+  - "jenkins.diagnostics.URICheckEncodingMonitor"
+  - "slaveToMasterAccessControl"
+  - "GitHubHookRegisterProblemMonitor"
+  - "jenkins.model.Jenkins$EnforceSlaveAgentPortAdministrativeMonitor"
+  - "jenkins.model.BuiltInNodeMigration"
+  - "org.jenkinsci.plugins.pipeline.maven.NonProductionGradeDatabaseWarningAdministrativeMonitor"
+  - "jenkins.security.apitoken.ApiTokenPropertyDisabledDefaultAdministrativeMonitor"
+  - "jenkins.security.s2m.MasterKillSwitchWarning"
+  - "hudson.triggers.SlowTriggerAdminMonitor"
+  - "jenkins.diagnostics.ControllerExecutorsAgents"
+  - "hudson.PluginManager$PluginCycleDependenciesMonitor"
+  - "hudson.node_monitors.MonitorMarkedNodeOffline"
+  - "hudson.PluginWrapper$PluginWrapperAdministrativeMonitor"
+  - "hudsonHomeIsFull"
+  - "hudson.diagnosis.TooManyJobsButNoView"
+  - "jenkins.diagnosis.HsErrPidList"
+  - "legacyApiToken"
+  - "jenkins.diagnostics.CompletedInitializationMonitor"
+  - "OldData"
+  - "hudson.triggers.SCMTrigger$AdministrativeMonitorImpl"
+  - "hudson.diagnosis.ReverseProxySetupMonitor"
+  - "jenkins.security.csrf.CSRFAdministrativeMonitor"
+  - "org.jenkinsci.plugins.matrixauth.AmbiguityMonitor"
+  - "hudson.PluginManager$PluginUpdateMonitor"
+  - "jenkins.diagnostics.SecurityIsOffMonitor"
+  - "jenkins.diagnostics.RootUrlNotSetMonitor"
+  - "jenkins.security.UpdateSiteWarningsMonitor"
+  - "jenkins.security.QueueItemAuthenticatorMonitor"
+  - "hudson.PluginManager$PluginDeprecationMonitor"
+  - "hudson.diagnosis.NullIdDescriptorMonitor"
+  - "jenkins.security.ResourceDomainRecommendation"
+  - "jenkins.security.apitoken.ApiTokenPropertyEnabledNewLegacyAdministrativeMonitor"
+  globalNodeProperties:
+  - envVars:
+      env:
+      - key: "ANDROID_HOME"
+        value: "/opt/android-sdk"
+      - key: "ANDROID_VERSION"
+        value: "29"
+  labelAtoms:
+  - name: "jenkins-jdk11-slave"
+  - name: "jenkins-jdk11-slave-029hs"
+  - name: "jenkins-jdk11-slave-0dljg"
+  - name: "jenkins-jdk11-slave-1qcmb"
+  - name: "jenkins-jdk11-slave-21rbj"
+  - name: "jenkins-jdk11-slave-2pbpb"
+  - name: "jenkins-jdk11-slave-2wdpp"
+  - name: "jenkins-jdk11-slave-39xt7"
+  - name: "jenkins-jdk11-slave-3hlm2"
+  - name: "jenkins-jdk11-slave-3jd02"
+  - name: "jenkins-jdk11-slave-3vc5j"
+  - name: "jenkins-jdk11-slave-3w3vd"
+  - name: "jenkins-jdk11-slave-4fqfc"
+  - name: "jenkins-jdk11-slave-4kx3l"
+  - name: "jenkins-jdk11-slave-4mlgf"
+  - name: "jenkins-jdk11-slave-6j1wj"
+  - name: "jenkins-jdk11-slave-6kkh5"
+  - name: "jenkins-jdk11-slave-7x3mz"
+  - name: "jenkins-jdk11-slave-b1lnz"
+  - name: "jenkins-jdk11-slave-bpxqf"
+  - name: "jenkins-jdk11-slave-c7d9b"
+  - name: "jenkins-jdk11-slave-ccn0q"
+  - name: "jenkins-jdk11-slave-cgzr3"
+  - name: "jenkins-jdk11-slave-d48r3"
+  - name: "jenkins-jdk11-slave-djxq8"
+  - name: "jenkins-jdk11-slave-dp6tx"
+  - name: "jenkins-jdk11-slave-fbf4l"
+  - name: "jenkins-jdk11-slave-g0nxz"
+  - name: "jenkins-jdk11-slave-gcwnh"
+  - name: "jenkins-jdk11-slave-h3l4f"
+  - name: "jenkins-jdk11-slave-h8mq1"
+  - name: "jenkins-jdk11-slave-h9g38"
+  - name: "jenkins-jdk11-slave-knnk0"
+  - name: "jenkins-jdk11-slave-maven-cache"
+  - name: "jenkins-jdk11-slave-mkpq4"
+  - name: "jenkins-jdk11-slave-mnmlq"
+  - name: "jenkins-jdk11-slave-mzs8z"
+  - name: "jenkins-jdk11-slave-nbzr8"
+  - name: "jenkins-jdk11-slave-ndj80"
+  - name: "jenkins-jdk11-slave-p9ljs"
+  - name: "jenkins-jdk11-slave-pd1cb"
+  - name: "jenkins-jdk11-slave-pd8dv"
+  - name: "jenkins-jdk11-slave-pzv2v"
+  - name: "jenkins-jdk11-slave-qjhlr"
+  - name: "jenkins-jdk11-slave-qjk78"
+  - name: "jenkins-jdk11-slave-r9n24"
+  - name: "jenkins-jdk11-slave-scdps"
+  - name: "jenkins-jdk11-slave-tn3vv"
+  - name: "jenkins-jdk11-slave-tzxt2"
+  - name: "jenkins-jdk11-slave-v73x4"
+  - name: "jenkins-jdk11-slave-xm4bj"
+  - name: "jenkins-jdk11-slave-xnp01"
+  - name: "jenkins-jdk11-slave-zs2mb"
+  - name: "master"
+  - name: "slave-trivy"
+  markupFormatter: "plainText"
+  mode: EXCLUSIVE
+  myViewsTabBar: "standard"
+  noUsageStatistics: true
+  numExecutors: 0
+  primaryView:
+    all:
+      name: "all"
+  projectNamingStrategy: "standard"
+  quietPeriod: 5
+  remotingSecurity:
+    enabled: true
+  scmCheckoutRetryCount: 0
+  securityRealm:
+    local:
+      allowsSignup: false
+      enableCaptcha: false
+      users:
+      - id: "admin"
+        name: "admin"
+        properties:
+        - "apiToken"
+        - favoriting:
+            autofavoriteEnabled: true
+        - mailer:
+            emailAddress: "admin@senrysa.com"
+        - "favorite"
+        - preferredProvider:
+            providerId: "default"
+        - "theme"
+      - id: "dev_user"
+        name: "All_dev_team_QA"
+        properties:
+        - "apiToken"
+        - favoriting:
+            autofavoriteEnabled: true
+        - "favorite"
+        - "myView"
+        - preferredProvider:
+            providerId: "default"
+        - "timezone"
+        - mailer:
+            emailAddress: "support-ndh-senrysa@nextdoorhub.com"
+        - "theme"
+      - id: "devteam_admin"
+        name: "Sudipta Adhikary"
+        properties:
+        - "apiToken"
+        - favoriting:
+            autofavoriteEnabled: true
+        - mailer:
+            emailAddress: "sudipta.adhikary@senrysa.com"
+        - "favorite"
+        - preferredProvider:
+            providerId: "default"
+        - "theme"
+      - id: "jen_admin"
+        name: "Jenkins Admin"
+        properties:
+        - "apiToken"
+        - favoriting:
+            autofavoriteEnabled: true
+        - "favorite"
+        - "myView"
+        - preferredProvider:
+            providerId: "default"
+        - "timezone"
+        - mailer:
+            emailAddress: "support-ndh-senrysa@nextdoorhub.com"
+        - "theme"
+      - description: "Access for searce"
+        id: "searce_team"
+        name: "searce"
+        properties:
+        - "apiToken"
+        - favoriting:
+            autofavoriteEnabled: true
+        - mailer:
+            emailAddress: "ms.prodsupport@searce.com"
+        - "favorite"
+        - preferredProvider:
+            providerId: "default"
+        - "theme"
+  slaveAgentPort: 50000
+  updateCenter:
+    sites:
+    - id: "default"
+      url: "https://updates.jenkins.io/update-center.json"
+  views:
+  - myView:
+      name: "Admin-jobs"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "favoriteColumn"
+      jobNames:
+      - "apa_2.0_android"
+      name: "Andriod"
+  - all:
+      name: "all"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "favoriteColumn"
+      jobNames:
+      - "subscription_ms_dev"
+      name: "dev-golang"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "favoriteColumn"
+      jobNames:
+      - "apa-eureka-discovery_dev"
+      - "apa_2.0_spring_cloud_gateway_dev"
+      - "apa_geomaster_dev"
+      - "apa_util_service_dev"
+      - "delivery_gateway_service_dev"
+      - "delivery_ms_dev"
+      - "elastic_process_dev"
+      - "gateway-master-dev"
+      - "jenkinsfile-demo"
+      - "ndh_acid_ms"
+      - "ndh_admin_dev"
+      - "ndh_bank_validation_service_dev"
+      - "ndh_delivery_scheduler_service_dev"
+      - "ndh_delivery_service_dev"
+      - "ndh_delivery_spring_scheduler_dev"
+      - "ndh_ecom_delivery_service_dev"
+      - "ndh_merchant_dev"
+      - "ndh_pos_service_dev"
+      - "ndh_product_dev"
+      - "ndh_service_registry_dev"
+      - "ndh_store_dev"
+      - "ndh_store_scout_dev"
+      - "pos_gateway_service_dev"
+      - "product_bgprocess_dev"
+      - "user_management_dev"
+      - "user_management_v2_dev"
+      - "wefast_delivery_gateway_service_dev"
+      name: "dev-java"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "favoriteColumn"
+      jobNames:
+      - "acid_react_web_dev"
+      - "apa_2.0_delivery_ms_node_dev"
+      - "apa_2.0_elastic_node_ms_dev"
+      - "apa_2.0_elastic_writer_node_ms_dev"
+      - "apa_2.0_orchestra_dev"
+      - "apa_2.0_react_mobile_customer_web_dev"
+      - "apa_2.0_react_mobile_seller_web_dev"
+      - "apa_2.0_ws_node_ms_dev"
+      - "apa_admin_web_angular_dev"
+      name: "dev-nodejs"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "favoriteColumn"
+      jobNames:
+      - "apa_2.0_admin_api_ms_dev"
+      - "apa_2.0_cart_management_ms"
+      - "apa_2.0_chat_ms_dev"
+      - "apa_2.0_coupon_ms"
+      - "apa_2.0_ndhcash_ms_dev"
+      - "apa_2.0_order_ms_dev"
+      - "apa_2.0_payment_callback_ms_dev"
+      - "apa_2.0_payment_ms_dev"
+      - "apa_2.0_schedule_jobs_ms_dev"
+      - "apa_2.0_shipment_wallet_ms_dev"
+      - "apa_2.0_shopping_ms_dev"
+      - "apa_2.0_shopping_seller_ms_dev"
+      name: "dev-ruby"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "favoriteColumn"
+      jobNames:
+      - "apa_2.0_spring_cloud_gateway_prod"
+      - "apa_user_management_v2_prod"
+      - "delivery_gateway_service_prod"
+      - "ndh_bank_validation_service_prod"
+      - "ndh_delivery_scheduler_service_prod"
+      - "ndh_delivery_service_prod"
+      - "ndh_delivery_spring_scheduler_prod"
+      - "ndh_ecom_delivery_service_prod"
+      - "ndh_merchant_prod"
+      - "ndh_pos_service_prod"
+      - "pos_gateway_service_prod"
+      - "prod-apa-admin"
+      - "prod-apa-brand"
+      - "prod-apa-entityapproval"
+      - "prod-apa-eureka-discovery"
+      - "prod-apa-gateway"
+      - "prod-apa-geomaster"
+      - "prod-apa-operations"
+      - "prod-apa-user-management"
+      - "prod-apa-util-service"
+      - "prod-attributes"
+      - "prod-category"
+      - "prod-commission"
+      - "prod-elastic-process"
+      - "prod-ndh-management-panel"
+      - "prod-ndh_store"
+      - "prod-ndh_store_scout"
+      - "prod-ndhaccounts"
+      - "prod-ndhautomation"
+      - "prod_ndh_product"
+      - "prod_Product_bgprocess"
+      - "wefast_delivery_gateway_service_prod"
+      name: "prd-java"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "favoriteColumn"
+      jobNames:
+      - "subscription_ms_prod"
+      name: "prod-golang"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "favoriteColumn"
+      jobNames:
+      - "apa_2.0_elastic_writer_node_ms_prod"
+      - "apa_2.0_orchestra_ms_prod"
+      - "apa_2.0_react_mobile_customer_web_prod"
+      - "apa_2.0_ws_node_ms_prod"
+      - "prod-apa_2.0_delivery_ms_node"
+      - "prod-apa_2.0_elastic_node_ms"
+      - "prod-apa_2.0_react_delivery_hybrid_web"
+      - "prod-apa_2.0_react_hybrid_web"
+      - "prod-apa_2.0_react_mobile_web"
+      - "prod-apa_2.0_react_seller_web"
+      - "prod-apa_admin_web_angular"
+      name: "prod-nodejs"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "favoriteColumn"
+      jobNames:
+      - "apa-2-cart-management-ms-prod"
+      - "apa_2.0_coupon_ms_prod"
+      - "apa_2.0_order_ms_prod"
+      - "prod-apa_2.0_admin_api_ms"
+      - "prod-apa_2.0_chat_ms"
+      - "prod-apa_2.0_delivery_ms"
+      - "prod-apa_2.0_ndhcash_ms"
+      - "prod-apa_2.0_payment_callback_ms"
+      - "prod-apa_2.0_payment_ms"
+      - "prod-apa_2.0_schedule_jobs_ms"
+      - "prod-apa_2.0_shopping_ms"
+      - "prod-apa_2.0_shopping_seller_ms"
+      - "prod_apa_2.0_pos_ms"
+      name: "prod-ruby"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      jobNames:
+      - "apa-admin"
+      - "apa-admin_demo_ignore"
+      - "apa-brand"
+      - "apa-entityapproval"
+      - "apa-eureka-discovery"
+      - "apa-gateway"
+      - "apa-geomaster"
+      - "apa-operations"
+      - "apa-user-management"
+      - "apa-util-service"
+      - "apa_2.0_spring_cloud_gateway"
+      - "apa_user_management_v2"
+      - "attributes"
+      - "category"
+      - "commission"
+      - "delivery_gateway_service_staging"
+      - "demo_pipeline"
+      - "elastic-process"
+      - "ndh-management-panel"
+      - "ndh_bank_validation_service_staging"
+      - "ndh_delivery_scheduler_service"
+      - "ndh_delivery_service_sit"
+      - "ndh_delivery_spring_scheduler"
+      - "ndh_ecom_delivery_service_sit"
+      - "ndh_merchant"
+      - "ndh_pos_service_sit"
+      - "ndh_product"
+      - "ndh_service_registry_sit"
+      - "ndh_store"
+      - "ndh_store_scout"
+      - "ndhaccounts"
+      - "ndhautomation"
+      - "pos_gateway_service_sit"
+      - "product_bgprocess"
+      - "wefast_delivery_gateway_service_sit"
+      name: "sit-java"
+  - myView:
+      name: "staging-go"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      - "favoriteColumn"
+      jobNames:
+      - "subscription_ms_stage"
+      name: "staging-golang"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      jobNames:
+      - "apa_2.0_delivery_ms_node"
+      - "apa_2.0_elastic_node_ms"
+      - "apa_2.0_elastic_writer_node_ms"
+      - "apa_2.0_orchestra_ms"
+      - "apa_2.0_react_delivery_hybrid_web"
+      - "apa_2.0_react_hybrid_web"
+      - "apa_2.0_react_mobile_customer_web"
+      - "apa_2.0_react_mobile_web"
+      - "apa_2.0_react_seller_web"
+      - "apa_2.0_ws_node_ms"
+      - "apa_admin_web_angular"
+      name: "staging-nodejs"
+  - list:
+      columns:
+      - "status"
+      - "weather"
+      - "jobName"
+      - "lastSuccess"
+      - "lastFailure"
+      - "lastDuration"
+      - "buildButton"
+      jobNames:
+      - "apa-2-cart-management-ms"
+      - "apa_2.0_admin_api_ms"
+      - "apa_2.0_chat_ms"
+      - "apa_2.0_coupon_ms_stage"
+      - "apa_2.0_delivery_ms"
+      - "apa_2.0_ndhcash_ms"
+      - "apa_2.0_order_ms_staging"
+      - "apa_2.0_payment_callback_ms"
+      - "apa_2.0_payment_ms"
+      - "apa_2.0_pos_ms"
+      - "apa_2.0_schedule_jobs_ms"
+      - "apa_2.0_shipment_wallet_ms"
+      - "apa_2.0_shipping_aggregator_ms"
+      - "apa_2.0_shopping_ms"
+      - "apa_2.0_shopping_seller_ms"
+      name: "staging-ruby"
+  viewsTabBar: "standard"
+globalCredentialsConfiguration:
+  configuration:
+    providerFilter: "none"
+    typeFilter: "none"
+security:
+  apiToken:
+    creationOfLegacyTokenEnabled: false
+    tokenGenerationOnCreationEnabled: false
+    usageStatisticsEnabled: true
+  gitHostKeyVerificationConfiguration:
+    sshHostKeyVerificationStrategy: "knownHostsFileVerificationStrategy"
+  globalJobDslSecurityConfiguration:
+    useScriptSecurity: false
+  sSHD:
+    port: -1
+  scriptApproval:
+    approvedScriptHashes:
+    - "017d0db438428731cd600b6ebda805065433520f"
+unclassified:
+  bitbucketEndpointConfiguration:
+    endpoints:
+    - bitbucketCloudEndpoint:
+        enableCache: false
+        manageHooks: false
+        repositoriesCacheDuration: 0
+        teamCacheDuration: 0
+  defaultFolderConfiguration:
+    healthMetrics:
+    - worstChildHealthMetric:
+        recursive: true
+  dockerSettings:
+    cloudOrder: "asIs"
+  email-ext:
+    adminRequiredForTemplateTesting: false
+    allowUnregisteredEnabled: true
+    charset: "UTF-8"
+    debugMode: true
+    defaultBody: |-
+      $PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS:
+
+      Check console output at $BUILD_URL to view the results.
+    defaultContentType: "text/html"
+    defaultSubject: "$PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS!"
+    defaultTriggerIds:
+    - "hudson.plugins.emailext.plugins.trigger.AbortedTrigger"
+    - "hudson.plugins.emailext.plugins.trigger.AlwaysTrigger"
+    - "hudson.plugins.emailext.plugins.trigger.FailureTrigger"
+    - "hudson.plugins.emailext.plugins.trigger.SuccessTrigger"
+    mailAccount:
+      credentialsId: "Personal Email"
+      smtpHost: "smtp.gmail.com"
+      smtpPort: "465"
+      useSsl: true
+      useTls: true
+    maxAttachmentSize: -1
+    maxAttachmentSizeMb: -1
+    precedenceBulk: false
+    watchingEnabled: true
+  fingerprints:
+    fingerprintCleanupDisabled: false
+    storage: "file"
+  gitHubConfiguration:
+    apiRateLimitChecker: ThrottleForNormalize
+  gitHubPluginConfig:
+    hookUrl: "http://35.200.165.238:8080/github-webhook/"
+  gitSCM:
+    addGitTagAction: false
+    allowSecondFetch: false
+    createAccountBasedOnEmail: false
+    disableGitToolChooser: false
+    hideCredentials: false
+    showEntireCommitSummaryInChanges: false
+    useExistingAccountWithSameEmail: false
+  junitTestResultStorage:
+    storage: "file"
+  location:
+    adminAddress: "support-ndh-senrysa@nextdoorhub.com"
+    url: "http://35.200.165.238:8080/"
+  mailer:
+    authentication:
+      password: "{AQAAABAAAAAQAdJW26KG5w6azVHWEJyBp9Z83I9kZAdcOA7m5WeuYiE=}"
+      username: "imran.roshan.official@gmail.com"
+    charset: "UTF-8"
+    smtpHost: "smtp.gmail.com"
+    smtpPort: "465"
+    useSsl: true
+    useTls: true
+  mavenModuleSet:
+    localRepository: "default"
+  pollSCM:
+    pollingThreadCount: 10
+  sonarGlobalConfiguration:
+    buildWrapperEnabled: false
+    installations:
+    - name: "sonarqube_server"
+      serverUrl: "http://35.200.182.92:9000"
+      triggers:
+        skipScmCause: false
+        skipUpstreamCause: false
+  themeManager:
+    disableUserThemes: false
+    theme: "darkSystem"
+tool:
+  git:
+    installations:
+    - home: "git"
+      name: "Default"
+  gradle:
+    installations:
+    - name: "gradle"
+      properties:
+      - installSource:
+          installers:
+          - gradleInstaller:
+              id: "6.5"
+  maven:
+    installations:
+    - name: "mvn"
+      properties:
+      - installSource:
+          installers:
+          - maven:
+              id: "3.6.3"
+  mavenGlobalConfig:
+    globalSettingsProvider: "standard"
+    settingsProvider: "standard"
+  nodejs:
+    installations:
+    - name: "node"
+      properties:
+      - installSource:
+          installers:
+          - nodeJSInstaller:
+              id: "14.16.0"
+              npmPackages: "npm@latest"
+              npmPackagesRefreshHours: 72
+  pipelineMaven:
+    triggerDownstreamUponResultAborted: false
+    triggerDownstreamUponResultFailure: false
+    triggerDownstreamUponResultNotBuilt: false
+    triggerDownstreamUponResultSuccess: true
+    triggerDownstreamUponResultUnstable: false
+  sonarRunnerInstallation:
+    installations:
+    - name: "sonarqubescanner"
+      properties:
+      - installSource:
+          installers:
+          - sonarRunnerInstaller:
+              id: "4.6.0.2311"
